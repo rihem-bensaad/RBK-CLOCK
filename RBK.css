@@ -1,0 +1,77 @@
+body {
+  background-image: url( "https://media.giphy.com/media/3oxRmvU3GAJay6F60g/giphy.gif");
+}
+header{
+  font-size: 24px;
+  line-height: 48px;
+}
+h1 {
+  font-family: cursive;
+  color : #8E0D56;
+  text-align: center;
+}
+#facebook{
+	float: right;
+	border-radius:50%;
+	height:80px
+}
+#insta{
+	float: left;
+	border-radius:50%;
+	height:80px
+}
+.page {
+  width: 80%;
+  max-width: 960px;
+  margin: 50px auto;
+  text-align: center;
+  background-color: black;
+  border-radius: 5px;
+}
+h2 {
+  font-size: 21px;
+  font-family: 'Bungee', cursive;
+  color : #8E0D56;
+}
+h2 #clock {
+  font-size: 15px;
+  display: block;
+  padding: 5px 0px;
+  color : #8E0D56;
+}
+/* #enterTimeSelector{
+  padding: 5px ;
+}*/
+p{
+	color : #8E0D56;
+	/*display: inline;*/
+	margin-bottom: 1% ;
+	font-family: cursive;
+	font-size: 20px
+
+}
+#breakSelector {
+	margin-top : 1%;
+}
+#image {
+  border-radius: 10px;
+  border:10px solid #222;
+  width:220px;
+  height:220px;	
+  }
+.rr{
+     margin: auto;
+  
+}
+#rbk {
+    border-radius: 50%;
+    height: 80px;
+    margin-left:48%;
+}
+.btn:hover {
+  background-color: #8E0D56;
+}
+/*.event1{
+	display:inline; 
+
+}*/
